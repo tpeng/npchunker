@@ -1,0 +1,1 @@
+crfasgd -t model.gz ../data/test

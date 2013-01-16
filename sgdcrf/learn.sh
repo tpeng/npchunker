@@ -1,0 +1,1 @@
+crfasgd model.gz template ../data/train
