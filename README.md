@@ -1,4 +1,4 @@
-A experiment np chunker with several sequence modeling tools.
+A experimental np chunker with several open source sequence modeling tools.
 
 ## data
 <http://www.cnts.ua.ac.be/conll2000/chunking/>
@@ -8,8 +8,9 @@ A experiment np chunker with several sequence modeling tools.
 
 ## tools
 [CRF++] (<http://crfpp.googlecode.com/svn/trunk/doc/index.html>)
+[NLTK] (<http://nltk.org/>)
 
-## TODO:
+## TODO
 - maxent
 - wapiti
 - sgdcrf
