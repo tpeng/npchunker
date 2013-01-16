@@ -1,0 +1,1 @@
+wapiti train -p pattern -1 5 ../data/train npchunk.model

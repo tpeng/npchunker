@@ -1,0 +1,1 @@
+wapiti label -m npchunk.model ../data/test
